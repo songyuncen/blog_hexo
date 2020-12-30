@@ -10,9 +10,11 @@ tags:
 - 教育
 ---
 
-![Cover](images/the-road-less-traveled.jpg)
+![Cover](/images/the-road-less-traveled.jpg)
 
 内容全部摘录自书中段落，虽然引发了很多思考，奈何笔拙，未形成文字。希望在增加了人生的历练和子女的抚养经历后，可以补上自己的思考。
+
+<!-- more -->
 
 # 自律
 

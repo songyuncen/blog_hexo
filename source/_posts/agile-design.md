@@ -9,9 +9,11 @@ tags:
 - 软件设计
 ---
 
-![Cover](images/agile-design.jpg)
+![Cover](/images/agile-design.jpg)
 
 敏捷设计是一个过程，它是一个持续的应用原则、模式以及实践来改进软件的结构和可读性，避免软件腐化的过程。
+
+<!-- more -->
 
 # 软件的腐化
 - 僵化性（Rigidity）：很难对系统进行改动，因为每个改动都会迫使许多对系统其他部分的其他改动。
